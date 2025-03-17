@@ -1329,5 +1329,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "Paulo Natalino Boaventura",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000622",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
