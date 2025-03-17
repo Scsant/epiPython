@@ -1340,5 +1340,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "Paulo Natalino Boaventura",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000622",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "6",
+        "Código SAP": "1116791"
     }
 ]
