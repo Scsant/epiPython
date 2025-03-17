@@ -1395,5 +1395,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME M, CAPUZ FUGA ABELHAS",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1143234, 1139801, 1143248, 1140365"
+    },
+    {
+        "Nome": "Ricardo Cesar Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015437",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
