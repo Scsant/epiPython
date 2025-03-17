@@ -1373,5 +1373,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 42",
         "Quantidade": "2, 2",
         "Código SAP": "1143249, 1143231"
+    },
+    {
+        "Nome": "Jose Osmir Messias",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37015748",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME G",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143231, 1143249"
     }
 ]
