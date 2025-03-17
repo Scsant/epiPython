@@ -1439,5 +1439,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "1",
         "Código SAP": "1139803"
+    },
+    {
+        "Nome": "Jose Marcos Lopes Lacerda",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012664",
+        "Tipo": "CALÇADO, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME GG",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139803, 1143270"
     }
 ]
