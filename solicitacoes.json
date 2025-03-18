@@ -1615,5 +1615,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "CLAUDEMIR MARTINS LOPES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012437",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
