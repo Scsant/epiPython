@@ -1571,5 +1571,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "Helton Fernando Rodrigues",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016457",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
