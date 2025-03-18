@@ -1637,5 +1637,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "ZEIR DOS SANTOS",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006946",
+        "Tipo": "CALÇA MASCULINA, CAMISA, EPI, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME G, LANTERNA PARA CAPACETE, BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143231, 1143249, 1154912, 1139803"
     }
 ]
