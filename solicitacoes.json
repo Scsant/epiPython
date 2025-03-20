@@ -141,5 +141,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44, PALMILHA 44, PROTETOR PERNA PERNEIRA COURO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CALÇA MASCULINA Nº 52, CAMISA UNIFORME GG",
         "Quantidade": "1, 1, 1, 1, 2, 2",
         "Código SAP": "1139806, 1127553, 1116791, 1114370, 1143236, 1143270"
+    },
+    {
+        "Nome": "Marcos Leite",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016354",
+        "Tipo": "OCULOS, COSMETICOS",
+        "Descrição": "OCULOS ESPELHADO AERO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1144814, 1114370"
     }
 ]
