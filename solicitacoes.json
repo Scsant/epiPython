@@ -152,5 +152,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 1",
         "Código SAP": "1144814, 1114370"
+    },
+    {
+        "Nome": "Roberto Felix Da Silva",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019843",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
