@@ -240,5 +240,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CALÇA MASCULINA Nº 46, CAMISA UNIFORME M",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139801, 1143233, 1143248"
+    },
+    {
+        "Nome": "Eduardo Rodrigues Martinucho",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014737",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 43, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143233, 1143249, 1139805, 1103176"
     }
 ]
