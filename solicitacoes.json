@@ -163,5 +163,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Fabricio Rodrigues Pontes",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37005677",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "12",
+        "Código SAP": "1103176"
     }
 ]
