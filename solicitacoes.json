@@ -251,5 +251,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 43, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143233, 1143249, 1139805, 1103176"
+    },
+    {
+        "Nome": "Remerson Henrique Bircol",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017665",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
