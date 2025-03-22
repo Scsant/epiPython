@@ -306,5 +306,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "1",
         "Código SAP": "1139801"
+    },
+    {
+        "Nome": "LEANDRO MARCOS CORREA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007253",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 41",
+        "Quantidade": "1",
+        "Código SAP": "1127547"
     }
 ]
