@@ -339,5 +339,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1",
         "Código SAP": "1143236, 1103176"
+    },
+    {
+        "Nome": "Luiz Paulo Delfino",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015075",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
