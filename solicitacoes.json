@@ -361,5 +361,16 @@
         "Descrição": "CAMISA UNIFORME M, LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143248, 1154912, 1144814"
+    },
+    {
+        "Nome": "SIDNEY ANTONIO CARDOSO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013422",
+        "Tipo": "PALMILHA, PALMILHA, EPI, COSMETICOS",
+        "Descrição": "PALMILHA 38, PALMILHA 39 , CAPACETE SEGURANCA BRANCO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1127546, 1127557, 1141560, 1114370"
     }
 ]
