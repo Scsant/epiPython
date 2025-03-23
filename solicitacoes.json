@@ -394,5 +394,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "Luiz Claudio Ramos Macedo",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017668",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, OUTROS",
+        "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 42, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143232, 1139804, 1141461"
     }
 ]
