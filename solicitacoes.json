@@ -405,5 +405,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 42, PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143232, 1139804, 1141461"
+    },
+    {
+        "Nome": "DIEGO REIS CANDIDO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007225",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
