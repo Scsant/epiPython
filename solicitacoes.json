@@ -416,5 +416,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "ANDERSON AILTON DA SILVA ",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019818",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, CAMISA, OCULOS, EPI, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 38, CAMISA UNIFORME M, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PERNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 2, 1, 1, 1, 1",
+        "Código SAP": "1143231, 1139800, 1143248, 1144814, 1154912, 1116791, 1103176"
     }
 ]
