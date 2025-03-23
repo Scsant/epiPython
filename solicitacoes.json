@@ -350,5 +350,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "DANNER PORTO CIOCCA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007107",
+        "Tipo": "CAMISA, EPI, OCULOS",
+        "Descrição": "CAMISA UNIFORME M, LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143248, 1154912, 1144814"
     }
 ]
