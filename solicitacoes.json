@@ -625,5 +625,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "1",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "LUIS HENRIQUE FERREIRA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008904",
+        "Tipo": "CALÇA MASCULINA, PALMILHA, EPI, EPI, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 48, PALMILHA 43, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, CAMISA UNIFORME GG",
+        "Quantidade": "2, 1, 1, 1, 2",
+        "Código SAP": "1143234, 1127555, 1141560, 1103375, 1143270"
     }
 ]
