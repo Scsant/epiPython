@@ -647,5 +647,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, CAPA GG, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143232, 1143248, 1103164, 1103176"
+    },
+    {
+        "Nome": "Ricardo Aparecido Da Silva",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017563",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143232, 1143249"
     }
 ]
