@@ -515,5 +515,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG",
         "Quantidade": "2, 2",
         "Código SAP": "1143234, 1143270"
+    },
+    {
+        "Nome": "MARCOS ANTONIO CIAN",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006654",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME EGG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143237, 1143271"
     }
 ]
