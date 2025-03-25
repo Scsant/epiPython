@@ -614,5 +614,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143231, 1143248, 1139802, 1114370"
+    },
+    {
+        "Nome": "EDIRLEI GONZALES DE ALMEIDA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013877",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME P",
+        "Quantidade": "1",
+        "Código SAP": "1143247"
     }
 ]
