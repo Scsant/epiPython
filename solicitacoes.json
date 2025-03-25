@@ -603,5 +603,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "Rogerio Aparecido Ortolon",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014514",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143231, 1143248, 1139802, 1114370"
     }
 ]
