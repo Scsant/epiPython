@@ -713,5 +713,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Rogerio Aparecido Ortolon",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014514",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, CAMISA, COSMETICOS, EPI, OUTROS",
+        "Descrição": "CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAPACETE SEGURANCA BRANCO, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "2, 1, 2, 1, 1, 1",
+        "Código SAP": "1143231, 1139802, 1143248, 1114370, 1141560, 1141461"
     }
 ]
