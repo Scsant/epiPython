@@ -735,5 +735,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, CAMISA UNIFORME G, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO, PERNEIRA, PORTA FERRAMENTA COR 016 ROYAL 01467, GARRAFAO TERMICO",
         "Quantidade": "2, 1, 1, 2, 1, 1, 1, 1, 1, 1",
         "Código SAP": "1143231, 1139804, 1144814, 1143249, 1103375, 1154912, 1103176, 1116791, 1141461, 1130122"
+    },
+    {
+        "Nome": "Joao Batista Da Silva Filho",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015103",
+        "Tipo": "KIT ABELHA, KIT ABELHA, EPI",
+        "Descrição": "CAPUZ FUGA ABELHAS, LUVA SEGURANCA VAQUETA MISTA UNICO, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1140365, 1120402, 1141560"
     }
 ]
