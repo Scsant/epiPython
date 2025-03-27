@@ -900,5 +900,16 @@
         "Descrição": "CAMISA UNIFORME M, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 1",
         "Código SAP": "1143248, 1114370"
+    },
+    {
+        "Nome": "JONAS DANIEL FERNANDES",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009544",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
