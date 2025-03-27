@@ -812,5 +812,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "CLAUDINEI FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006390",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
