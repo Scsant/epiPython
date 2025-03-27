@@ -823,5 +823,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "Almir Rogerio Cesar Cardoso",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37011220",
+        "Tipo": "CALÇA MASCULINA, COSMETICOS, CAMISA, KIT ABELHA",
+        "Descrição": "CALÇA MASCULINA Nº 46, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME G, LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "Quantidade": "2, 1, 2, 1",
+        "Código SAP": "1143233, 1114370, 1143249, 1120402"
     }
 ]
