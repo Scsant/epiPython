@@ -834,5 +834,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME G, LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "2, 1, 2, 1",
         "Código SAP": "1143233, 1114370, 1143249, 1120402"
+    },
+    {
+        "Nome": "Remerson Henrique Bircol",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017665",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
