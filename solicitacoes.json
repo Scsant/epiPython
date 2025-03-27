@@ -790,5 +790,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "DIOGENES ALVES DE ARRUDA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006788",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
