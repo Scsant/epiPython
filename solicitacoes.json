@@ -779,5 +779,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "DIOGENES ALVES DE ARRUDA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006788",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
