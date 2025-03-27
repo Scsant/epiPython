@@ -867,5 +867,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Claudinei Dos Santos",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017537",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143249, 1143234"
     }
 ]
