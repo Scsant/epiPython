@@ -999,5 +999,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143234, 1143249, 1139802"
+    },
+    {
+        "Nome": "Erison Fernando Vieira",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013859",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
