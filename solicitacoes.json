@@ -944,5 +944,16 @@
         "Descrição": "CALÇA FEMININA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143275"
+    },
+    {
+        "Nome": "Moacir Rodrigo Brailla Wernek",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019737",
+        "Tipo": "CALÇA MASCULINA, EPI, COSMETICOS, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, LANTERNA PARA CAPACETE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143234, 1154912, 1114370, 1144814"
     }
 ]
