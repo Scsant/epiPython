@@ -955,5 +955,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, LANTERNA PARA CAPACETE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143234, 1154912, 1114370, 1144814"
+    },
+    {
+        "Nome": "Moacir Rodrigo Brailla Wernek",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019737",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
