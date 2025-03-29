@@ -1010,5 +1010,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "JORGE DE SOUZA BEZERRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008014",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA, COSMETICOS, PALMILHA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 44, CALÇA MASCULINA Nº 54, CAMISA UNIFORME EGG, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 39 ",
+        "Quantidade": "1, 2, 2, 1, 1",
+        "Código SAP": "1139806, 1143237, 1143271, 1114370, 1127557"
     }
 ]
