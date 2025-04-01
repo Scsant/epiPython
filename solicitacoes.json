@@ -1263,5 +1263,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Claudio Dos Santos Ribeiro",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015300",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, PALMILHA",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143232, 1143249, 1139803, 1127547"
     }
 ]
