@@ -1252,5 +1252,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 38",
         "Quantidade": "1",
         "Código SAP": "1139800"
+    },
+    {
+        "Nome": "RONALDO FRANCISCO MACHADO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37017581",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "1",
+        "Código SAP": "1143249"
     }
 ]
