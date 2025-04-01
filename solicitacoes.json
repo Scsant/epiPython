@@ -1230,5 +1230,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "RONALDO FRANCISCO MACHADO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37017581",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
