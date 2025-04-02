@@ -1450,5 +1450,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Nilson Martins Dos Santos",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020860",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
