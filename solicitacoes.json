@@ -1362,5 +1362,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 39, PALMILHA 39 ",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143281, 1143248, 1139801, 1127557"
+    },
+    {
+        "Nome": "Jose Roberto Siqueira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013883",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
