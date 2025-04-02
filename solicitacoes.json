@@ -1384,5 +1384,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, PROTETOR AURICULAR PLUG SILICONE, PALMILHA 44, BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143234, 1143249, 1111086, 1127553, 1139806"
+    },
+    {
+        "Nome": "Richard Paiva",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019803",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
