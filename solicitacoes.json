@@ -1439,5 +1439,16 @@
         "Descrição": "CAPUZ FUGA ABELHAS, LUVA SEGURANCA VAQUETA MISTA UNICO, BOTINA DE SEGURANÇA PRETO 40, PALMILHA 40, CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "1, 1, 1, 1, 2, 2",
         "Código SAP": "1140365, 1120402, 1139802, 1127554, 1143233, 1143249"
+    },
+    {
+        "Nome": "Bruno Henrique De Sousa Silva",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018713",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
