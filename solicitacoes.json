@@ -1406,5 +1406,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 1",
         "Código SAP": "1143235, 1139802"
+    },
+    {
+        "Nome": "Uarly Santos De Abreu",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015248",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
