@@ -1659,5 +1659,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143233, 1143249"
+    },
+    {
+        "Nome": "Elivelton Luiz Justo",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019964",
+        "Tipo": "CALÇA MASCULINA, CAMISA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, CAPA GG",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143232, 1143249, 1103164"
     }
 ]
