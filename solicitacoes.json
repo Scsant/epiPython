@@ -1714,5 +1714,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "1",
         "Código SAP": "1120402"
+    },
+    {
+        "Nome": "Jose Dos Santos Araujo",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015578",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 40",
+        "Quantidade": "2",
+        "Código SAP": "1143281"
     }
 ]
