@@ -1670,5 +1670,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, CAPA GG",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143232, 1143249, 1103164"
+    },
+    {
+        "Nome": "RAFAEL DONIZETI ZANFORLIM",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019533",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "1",
+        "Código SAP": "1143234"
     }
 ]
