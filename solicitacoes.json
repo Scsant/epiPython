@@ -1549,5 +1549,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Adailton Correa da Silva",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37015803",
+        "Tipo": "CALÇA MASCULINA, CAMISA, PALMILHA",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, PALMILHA 44",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143234, 1143270, 1127553"
     }
 ]
