@@ -1560,5 +1560,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, PALMILHA 44",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143234, 1143270, 1127553"
+    },
+    {
+        "Nome": "Jeferson José De Sousa",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019825",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
