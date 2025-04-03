@@ -1593,5 +1593,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "Renato Junior Sonsino",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012658",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
