@@ -1626,5 +1626,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "WILLIAN ALEX TEODORO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014013",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143237, 1143270"
     }
 ]
