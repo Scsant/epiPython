@@ -1538,5 +1538,16 @@
         "Descrição": "GARRAFAO TERMICO, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1",
         "Código SAP": "1130122, 1154912"
+    },
+    {
+        "Nome": "JOSE ROBERTO FERREIRA DA ROCHA",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014618",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
