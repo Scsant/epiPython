@@ -1791,5 +1791,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "CARLOS ANDRE GONCALVES DE SOUZA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006360",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1120402"
     }
 ]
