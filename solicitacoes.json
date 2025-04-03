@@ -1769,5 +1769,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "ANDRE LUIS FURLANETTTO",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018517",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143248, 1143232"
     }
 ]
