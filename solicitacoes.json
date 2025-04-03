@@ -1780,5 +1780,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44",
         "Quantidade": "2, 2",
         "Código SAP": "1143248, 1143232"
+    },
+    {
+        "Nome": "CARLOS ANDRE GONCALVES DE SOUZA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006360",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
