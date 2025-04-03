@@ -1692,5 +1692,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "1",
         "Código SAP": "1139801"
+    },
+    {
+        "Nome": "Maikon Aurelio dos Santos Cruz",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020325",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
