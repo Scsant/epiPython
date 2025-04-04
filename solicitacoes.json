@@ -1978,5 +1978,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CALÇA MASCULINA Nº 48, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G",
         "Quantidade": "1, 1, 2, 2",
         "Código SAP": "1139801, 1143234, 1143234, 1143249"
+    },
+    {
+        "Nome": "Valter de Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37012706",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143235, 1143249"
     }
 ]
