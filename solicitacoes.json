@@ -1890,5 +1890,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME GG",
         "Quantidade": "2, 2",
         "Código SAP": "1143235, 1143270"
+    },
+    {
+        "Nome": "Vagner Junio Ferreira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015273",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
