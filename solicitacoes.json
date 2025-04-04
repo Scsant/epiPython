@@ -1912,5 +1912,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Vagner Junio Ferreira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015273",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
