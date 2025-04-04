@@ -1945,5 +1945,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52",
         "Quantidade": "1",
         "Código SAP": "1143236"
+    },
+    {
+        "Nome": "Carlos Fabiano Ruiz",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016357",
+        "Tipo": "OUTROS, CALÇA MASCULINA, COSMETICOS, PALMILHA, CAMISA, EPI, EPI, EPI",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, CALÇA MASCULINA Nº 52, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 42, CAMISA UNIFORME GG, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1, 2, 1, 1, 1",
+        "Código SAP": "1141461, 1143236, 1114370, 1127545, 1143270, 1103375, 1154912, 1103176"
     }
 ]
