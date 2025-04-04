@@ -1868,5 +1868,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, CALÇA MASCULINA Nº 46",
         "Quantidade": "1, 2",
         "Código SAP": "1103375, 1143233"
+    },
+    {
+        "Nome": "LUCAS RUEDA DOS SANTOS",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006793",
+        "Tipo": "CALÇADO, PROTETOR",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1139804, 1116791"
     }
 ]
