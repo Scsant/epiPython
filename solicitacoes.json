@@ -1835,5 +1835,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 36",
         "Quantidade": "1",
         "Código SAP": "1139788"
+    },
+    {
+        "Nome": "Anderson Alberico Gallis",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013468",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 41",
+        "Quantidade": "1",
+        "Código SAP": "1127547"
     }
 ]
