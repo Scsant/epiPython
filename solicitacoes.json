@@ -1857,5 +1857,16 @@
         "Descrição": "PALMILHA 41, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PROTETOR PERNA PERNEIRA COURO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 1, 1, 1, 1",
         "Código SAP": "1127547, 1144814, 1154912, 1116791, 1114370"
+    },
+    {
+        "Nome": "Tedi Alisson Rodrigues",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015431",
+        "Tipo": "EPI, CALÇA MASCULINA",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 2",
+        "Código SAP": "1103375, 1143233"
     }
 ]
