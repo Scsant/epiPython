@@ -2099,5 +2099,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, PORTA FERRAMENTA COR 016 ROYAL 01467, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1143231, 1141461, 1154912"
+    },
+    {
+        "Nome": "BRAZ APARECIDO ZAGHI TEIXEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006790",
+        "Tipo": "CAMISA, EPI, OCULOS",
+        "Descrição": "CAMISA UNIFORME M, PERNEIRA, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143248, 1116791, 1144814"
     }
 ]
