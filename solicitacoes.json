@@ -2066,5 +2066,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "Ricardo Cesar Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015437",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, CAMISA, EPI, EPI, EPI, EPI, EPI, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME M, LANTERNA PARA CAPACETE, CAPA GG, LUVA SEGURANCA VAQUETA UNICO, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 1, 2, 1, 1, 1, 1, 1, 1",
+        "Código SAP": "1143234, 1139801, 1143248, 1154912, 1103164, 1103176, 1141560, 1103375, 1114370"
     }
 ]
