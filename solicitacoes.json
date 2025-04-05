@@ -2088,5 +2088,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 38, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 2, 2, 1, 1",
         "Código SAP": "1141560, 1143249, 1143233, 1139800, 1114370"
+    },
+    {
+        "Nome": "Nilton Cesar Chaves",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017785",
+        "Tipo": "CALÇA MASCULINA, OUTROS, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 42, PORTA FERRAMENTA COR 016 ROYAL 01467, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1143231, 1141461, 1154912"
     }
 ]
