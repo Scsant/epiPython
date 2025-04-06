@@ -2132,5 +2132,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "BRUNO TERRABUIO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019824",
+        "Tipo": "EPI, CALÇA MASCULINA, CAMISA",
+        "Descrição": "LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME M",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1154912, 1143233, 1143248"
     }
 ]
