@@ -2143,5 +2143,16 @@
         "Descrição": "LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME M",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1154912, 1143233, 1143248"
+    },
+    {
+        "Nome": "ERISVAN BARROS DA SILVA",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014855",
+        "Tipo": "CALÇA MASCULINA, PROTETOR, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 44, PROTETOR AURICULAR PLUG SILICONE, CAMISA UNIFORME G",
+        "Quantidade": "2, 1, 2",
+        "Código SAP": "1143232, 1111086, 1143249"
     }
 ]
