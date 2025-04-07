@@ -2220,5 +2220,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "David Biancao",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014739",
+        "Tipo": "EPI, EPI",
+        "Descrição": "PERNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1116791, 1103176"
     }
 ]
