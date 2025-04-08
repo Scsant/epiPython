@@ -2286,5 +2286,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143234, 1143249, 1103375"
+    },
+    {
+        "Nome": "Isaias Jose Da Silva",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016350",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, OUTROS",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 41, GARRAFAO TERMICO",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143249, 1143234, 1139803, 1130122"
     }
 ]
