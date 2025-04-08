@@ -2396,5 +2396,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Everton Luiz Pedroso",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015411",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143248, 1143232"
     }
 ]
