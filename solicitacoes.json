@@ -2550,5 +2550,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 42",
         "Quantidade": "2, 2",
         "Código SAP": "1143248, 1143231"
+    },
+    {
+        "Nome": "FELIPE PROENCA DE CAMARGO",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013460",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
