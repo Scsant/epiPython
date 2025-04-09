@@ -2495,5 +2495,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "Silvano Alves de Souza ",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020831",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 39",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143248, 1143232, 1139801"
     }
 ]
