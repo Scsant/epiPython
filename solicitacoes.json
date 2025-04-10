@@ -2660,5 +2660,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1",
         "Código SAP": "1143234, 1144814"
+    },
+    {
+        "Nome": "Andre Cristiano Fabris",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017282",
+        "Tipo": "PALMILHA, CALÇA MASCULINA, CAMISA",
+        "Descrição": "PALMILHA 41, CALÇA MASCULINA Nº 40, CAMISA UNIFORME M",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1127547, 1143281, 1143248"
     }
 ]
