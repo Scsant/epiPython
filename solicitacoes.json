@@ -2583,5 +2583,16 @@
         "Descrição": "PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "REINALDO ROMANO",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000607",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
