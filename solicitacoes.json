@@ -2616,5 +2616,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "BENEDITO DE OLIVEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006650",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
