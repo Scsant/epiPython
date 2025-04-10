@@ -2649,5 +2649,16 @@
         "Descrição": "CAMISA UNIFORME G, CAMISA UNIFORME GG, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143249, 1143270, 1114370, 1130122"
+    },
+    {
+        "Nome": "EDISON FRANCISCO LEITE",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": " 37006648",
+        "Tipo": "CALÇA MASCULINA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143234, 1144814"
     }
 ]
