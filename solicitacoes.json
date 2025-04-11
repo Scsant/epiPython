@@ -2671,5 +2671,16 @@
         "Descrição": "PALMILHA 41, CALÇA MASCULINA Nº 40, CAMISA UNIFORME M",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1127547, 1143281, 1143248"
+    },
+    {
+        "Nome": "MARCELO CRISTIANO ALMEIDA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006646",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
