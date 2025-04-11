@@ -2748,5 +2748,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "LUCIANO RAIMUNDO NUNES",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008088",
+        "Tipo": "OUTROS, EPI",
+        "Descrição": "GARRAFAO TERMICO, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1130122, 1154912"
     }
 ]
