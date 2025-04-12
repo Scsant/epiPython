@@ -2792,5 +2792,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "ELENILSON ALEXANDRE ALVES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008965",
+        "Tipo": "CALÇA MASCULINA, EPI, EPI, EPI, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, PERNEIRA, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1, 1, 1",
+        "Código SAP": "1143231, 1141560, 1103375, 1116791, 1144814"
     }
 ]
