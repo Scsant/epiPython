@@ -2770,5 +2770,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52",
         "Quantidade": "2",
         "Código SAP": "1143236"
+    },
+    {
+        "Nome": "Daniel Paulo Nogueira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019163",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
