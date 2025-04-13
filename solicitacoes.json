@@ -64,5 +64,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "EMERSON SANTOS  DE OLIVEIRA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018343",
+        "Tipo": "COSMETICOS, PALMILHA",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 41",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1127547"
     }
 ]
