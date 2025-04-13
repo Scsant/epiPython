@@ -86,5 +86,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "1",
         "Código SAP": "1120402"
+    },
+    {
+        "Nome": "Luiz Cesar Fiore",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019550",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
