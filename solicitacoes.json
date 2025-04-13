@@ -108,5 +108,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "LUIS FELIPE ANTUNES MOREIRRA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020153",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
