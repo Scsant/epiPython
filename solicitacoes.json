@@ -163,5 +163,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 1",
         "Código SAP": "1143237, 1154912"
+    },
+    {
+        "Nome": "Adriano de Oliveira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015012",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143233, 1143249"
     }
 ]
