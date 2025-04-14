@@ -174,5 +174,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143233, 1143249"
+    },
+    {
+        "Nome": "Adriano de Oliveira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015012",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143249, 1143233"
     }
 ]
