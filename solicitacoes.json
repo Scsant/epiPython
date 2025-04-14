@@ -64,5 +64,16 @@
         "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 50, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PERNEIRA, GARRAFAO TERMICO",
         "Quantidade": "2, 1, 2, 1, 1, 1, 1",
         "Código SAP": "1143270, 1139803, 1143235, 1144814, 1154912, 1116791, 1130122"
+    },
+    {
+        "Nome": "Emerson Lourenço",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019814",
+        "Tipo": "EPI, EPI",
+        "Descrição": "LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1154912, 1103176"
     }
 ]
