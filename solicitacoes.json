@@ -53,5 +53,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME P, LANTERNA PARA CAPACETE, PERNEIRA",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143281, 1143247, 1154912, 1116791"
+    },
+    {
+        "Nome": "SAMUEL FERREIRA DE SOUZA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008906",
+        "Tipo": "CAMISA, CALÇADO, CALÇA MASCULINA, OCULOS, EPI, EPI, OUTROS",
+        "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 50, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PERNEIRA, GARRAFAO TERMICO",
+        "Quantidade": "2, 1, 2, 1, 1, 1, 1",
+        "Código SAP": "1143270, 1139803, 1143235, 1144814, 1154912, 1116791, 1130122"
     }
 ]
