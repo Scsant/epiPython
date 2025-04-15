@@ -207,5 +207,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 44",
         "Quantidade": "1, 2",
         "Código SAP": "1139803, 1143232"
+    },
+    {
+        "Nome": "APARECIDO CICERO GOMES",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006560",
+        "Tipo": "CALÇA MASCULINA, PROTETOR, OUTROS, OUTROS, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 42, PROTETOR AURICULAR PLUG SILICONE, PORTA FERRAMENTA COR 016 ROYAL 01467, GARRAFAO TERMICO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 1, 1, 1, 1",
+        "Código SAP": "1143231, 1111086, 1141461, 1130122, 1114370"
     }
 ]
