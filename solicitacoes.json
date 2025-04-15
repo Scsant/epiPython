@@ -174,5 +174,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 38",
         "Quantidade": "1",
         "Código SAP": "1139800"
+    },
+    {
+        "Nome": "BRUNO TERRABUIO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019824",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143233, 1143248"
     }
 ]
