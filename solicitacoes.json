@@ -295,5 +295,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "3, 3, 10",
         "Código SAP": "1143249, 1143234, 1103375"
+    },
+    {
+        "Nome": "Daniel Gomes",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020691",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
