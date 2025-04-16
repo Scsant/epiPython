@@ -273,5 +273,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143234, 1143249, 1139804"
+    },
+    {
+        "Nome": "Matheus Adriel Ferreira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014865",
+        "Tipo": "EPI, EPI",
+        "Descrição": "LANTERNA PARA CAPACETE, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1154912, 1141560"
     }
 ]
