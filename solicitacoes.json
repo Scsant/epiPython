@@ -427,5 +427,16 @@
         "Descrição": "CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 42, CALÇA MASCULINA Nº 44, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 1, 2, 1",
         "Código SAP": "1143249, 1139804, 1143232, 1154912"
+    },
+    {
+        "Nome": "Misael Victorio Justino Ribeiro",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018703",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
