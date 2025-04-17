@@ -405,5 +405,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143231, 1143249, 1139803"
+    },
+    {
+        "Nome": "RODRIGO DA SILVA ALVES",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019966",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 40",
+        "Quantidade": "1",
+        "Código SAP": "1127554"
     }
 ]
