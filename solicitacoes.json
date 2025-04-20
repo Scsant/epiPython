@@ -570,5 +570,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "DANIEL PINHEIRO JUNIOR",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007360",
+        "Tipo": "CALÇA MASCULINA, CAMISA, PALMILHA",
+        "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PALMILHA 39 ",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143281, 1143248, 1127557"
     }
 ]
