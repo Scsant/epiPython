@@ -581,5 +581,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PALMILHA 39 ",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143281, 1143248, 1127557"
+    },
+    {
+        "Nome": "Alex Sandro Jose Rossi",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015521",
+        "Tipo": "COSMETICOS, EPI, OCULOS, PALMILHA",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO, PALMILHA 42",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1114370, 1154912, 1144814, 1127545"
     }
 ]
