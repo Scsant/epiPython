@@ -625,5 +625,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, PALMILHA 44",
         "Quantidade": "1, 1",
         "Código SAP": "1141560, 1127553"
+    },
+    {
+        "Nome": "Joao Batista Da Silva Filho",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015103",
+        "Tipo": "COSMETICOS, OUTROS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1141461"
     }
 ]
