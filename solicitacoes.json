@@ -614,5 +614,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Daniel Marcelino Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019183",
+        "Tipo": "EPI, PALMILHA",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, PALMILHA 44",
+        "Quantidade": "1, 1",
+        "Código SAP": "1141560, 1127553"
     }
 ]
