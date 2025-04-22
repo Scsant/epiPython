@@ -1065,5 +1065,16 @@
         "Descrição": "PALMILHA 39 ",
         "Quantidade": "1",
         "Código SAP": "1127557"
+    },
+    {
+        "Nome": "ARCISIO CLAUDINEI SILVA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009197",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
+        "Quantidade": "1",
+        "Código SAP": "1139801"
     }
 ]
