@@ -746,5 +746,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "LUCAS ELIAS DOS SANTOS",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007990",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
