@@ -724,5 +724,16 @@
         "Descrição": "CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 44, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 1, 2, 1",
         "Código SAP": "1143249, 1139802, 1143232, 1154912"
+    },
+    {
+        "Nome": "Carlos Fabiano Ruiz",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016357",
+        "Tipo": "CAMISA, PALMILHA, CALÇA MASCULINA, COSMETICOS, EPI, EPI, OUTROS",
+        "Descrição": "CAMISA UNIFORME GG, PALMILHA 42, CALÇA MASCULINA Nº 52, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "2, 1, 1, 1, 1, 1, 1",
+        "Código SAP": "1143270, 1127545, 1143236, 1114370, 1103375, 1154912, 1141461"
     }
 ]
