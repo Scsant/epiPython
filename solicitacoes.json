@@ -856,5 +856,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Valter de Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37012706",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
