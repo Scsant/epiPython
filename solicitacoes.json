@@ -878,5 +878,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Valter de Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37012706",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
