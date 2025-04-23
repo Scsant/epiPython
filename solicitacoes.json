@@ -1120,5 +1120,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "VANDERLEI DIAS BARBOSA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009379",
+        "Tipo": "EPI, EPI, OUTROS, OUTROS, CAMISA, CALÇA MASCULINA, EPI, PALMILHA",
+        "Descrição": "PERNEIRA, LUVA SEGURANCA VAQUETA UNICO, PORTA FERRAMENTA COR 016 ROYAL 01467, GARRAFAO TERMICO, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48, LANTERNA PARA CAPACETE, PALMILHA 42",
+        "Quantidade": "1, 1, 1, 1, 2, 2, 1, 1",
+        "Código SAP": "1116791, 1103176, 1141461, 1130122, 1143270, 1143234, 1154912, 1127545"
     }
 ]
