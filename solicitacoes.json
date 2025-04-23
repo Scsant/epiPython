@@ -9,5 +9,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "ANDERSON SOARES DE MORAES",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020040",
+        "Tipo": "EPI, OCULOS, PALMILHA, EPI, EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO, OCULOS ESPELHADO AERO, PALMILHA 43, LANTERNA PARA CAPACETE, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 1, 1, 1, 1",
+        "Código SAP": "1103176, 1144814, 1127555, 1154912, 1103375"
     }
 ]
