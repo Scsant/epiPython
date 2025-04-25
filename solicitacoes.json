@@ -262,5 +262,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Anderson Jose Bertoncin",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013479",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
