@@ -229,5 +229,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "JULIO CEZAR MINGOTTI",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021537",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
