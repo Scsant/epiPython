@@ -240,5 +240,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "JULIO CEZAR MINGOTTI",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021537",
+        "Tipo": "CAMISA, CALÇA MASCULINA, OUTROS, EPI",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, GARRAFAO TERMICO, CAPA GG",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143249, 1143233, 1130122, 1103164"
     }
 ]
