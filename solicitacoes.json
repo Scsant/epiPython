@@ -251,5 +251,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, GARRAFAO TERMICO, CAPA GG",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143249, 1143233, 1130122, 1103164"
+    },
+    {
+        "Nome": "Anderson Jose Bertoncin",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013479",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
