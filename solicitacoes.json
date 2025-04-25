@@ -273,5 +273,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Uedslei Luiz da Cunha ",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Técnico",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37006015",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "3",
+        "Código SAP": "1143248"
     }
 ]
