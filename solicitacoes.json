@@ -295,5 +295,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1, 1, 2, 1",
         "Código SAP": "1141560, 1103375, 1143270, 1139804"
+    },
+    {
+        "Nome": "Silvano Alves de Souza ",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020831",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 39, LANTERNA PARA CAPACETE",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143233, 1143248, 1139801, 1154912"
     }
 ]
