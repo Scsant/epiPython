@@ -328,5 +328,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 46, CALÇA MASCULINA Nº 60, CAMISA UNIFORME GG, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 2, 1, 1",
         "Código SAP": "1139808, 1143297, 1143270, 1144814, 1103176"
+    },
+    {
+        "Nome": "Marcos Molina",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021126",
+        "Tipo": "CAMISA, CALÇA MASCULINA, EPI",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143234, 1103176"
     }
 ]
