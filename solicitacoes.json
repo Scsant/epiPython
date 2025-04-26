@@ -306,5 +306,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 39, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143233, 1143248, 1139801, 1154912"
+    },
+    {
+        "Nome": "RODRIGO SILVINO ALVES",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37011100",
+        "Tipo": "CALÇADO, COSMETICOS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1139805, 1114370"
     }
 ]
