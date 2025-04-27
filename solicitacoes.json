@@ -361,5 +361,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Jeferson Tereza",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Técnico",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37004384",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "24",
+        "Código SAP": "1103176"
     }
 ]
