@@ -383,5 +383,16 @@
         "Descrição": "CAMISA UNIFORME G, PALMILHA 43, CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1, 2, 1",
         "Código SAP": "1143249, 1127555, 1143234, 1144814"
+    },
+    {
+        "Nome": "Daniel Elias de Siqueira",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014194",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
+        "Quantidade": "1",
+        "Código SAP": "1139805"
     }
 ]
