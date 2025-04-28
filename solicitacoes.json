@@ -416,5 +416,16 @@
         "Descrição": "CAPA GG, LANTERNA PARA CAPACETE, BOTINA DE SEGURANÇA PRETO 36",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1103164, 1154912, 1139788"
+    },
+    {
+        "Nome": "Jose Fernando Freitas",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015098",
+        "Tipo": "CALÇADO, OCULOS, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, CAPA GG, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1139804, 1144814, 1103164, 1103176"
     }
 ]
