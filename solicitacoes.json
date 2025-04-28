@@ -438,5 +438,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "1",
         "Código SAP": "1139803"
+    },
+    {
+        "Nome": "Carlos Renato Cavalheiro",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015107",
+        "Tipo": "CAMISA, COSMETICOS, EPI, CALÇADO",
+        "Descrição": "CAMISA UNIFORME P, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, SUSPENSÃO DE CAPACETE / CARNEIRA, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1143247, 1114370, 1103375, 1139802"
     }
 ]
