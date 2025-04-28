@@ -394,5 +394,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
         "Quantidade": "1",
         "Código SAP": "1139805"
+    },
+    {
+        "Nome": "BENEDITO DE OLIVEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006650",
+        "Tipo": "EPI, EPI, COSMETICOS",
+        "Descrição": "LANTERNA PARA CAPACETE, PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1154912, 1116791, 1114370"
     }
 ]
