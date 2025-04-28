@@ -427,5 +427,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, CAPA GG, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1139804, 1144814, 1103164, 1103176"
+    },
+    {
+        "Nome": "JOSE LUIZ PAGADIGORRIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006273",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
