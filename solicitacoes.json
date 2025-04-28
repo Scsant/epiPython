@@ -471,5 +471,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "ADEMIR CORDEIRO DE LIMA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008976",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "1",
+        "Código SAP": "1143233"
     }
 ]
