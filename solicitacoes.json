@@ -603,5 +603,16 @@
         "Descrição": "PALMILHA 40",
         "Quantidade": "1",
         "Código SAP": "1127554"
+    },
+    {
+        "Nome": "BRAZ APARECIDO ZAGHI TEIXEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006790",
+        "Tipo": "CAMISA, OCULOS, EPI",
+        "Descrição": "CAMISA UNIFORME M, OCULOS ESPELHADO AERO, PERNEIRA",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143248, 1144814, 1116791"
     }
 ]
