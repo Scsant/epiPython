@@ -548,5 +548,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 38, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143249, 1143234, 1139800, 1103176"
+    },
+    {
+        "Nome": "CLODOALDO ROBERTO SILVERIO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37021125",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 58",
+        "Quantidade": "2",
+        "Código SAP": "1143239"
     }
 ]
