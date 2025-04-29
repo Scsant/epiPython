@@ -614,5 +614,16 @@
         "Descrição": "CAMISA UNIFORME M, OCULOS ESPELHADO AERO, PERNEIRA",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143248, 1144814, 1116791"
+    },
+    {
+        "Nome": "Anderson Aparecido Da Silva",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37015616",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
