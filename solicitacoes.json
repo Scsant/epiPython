@@ -570,5 +570,16 @@
         "Descrição": "CAMISA UNIFORME EGG",
         "Quantidade": "2",
         "Código SAP": "1143271"
+    },
+    {
+        "Nome": "CLODOALDO ROBERTO SILVERIO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37021125",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
