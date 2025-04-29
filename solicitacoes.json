@@ -504,5 +504,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "WELLINGTON AMARAL DE JESUS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014927",
+        "Tipo": "EPI, PROTETOR",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1141560, 1111086"
     }
 ]
