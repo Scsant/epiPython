@@ -31,5 +31,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Daniel De Oliveira",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012645",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 54",
+        "Quantidade": "2",
+        "Código SAP": "1143237"
     }
 ]
