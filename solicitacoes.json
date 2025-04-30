@@ -658,5 +658,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 1",
         "Código SAP": "1141461, 1114370"
+    },
+    {
+        "Nome": "CARLOS ROBERTO DA SILVA JUNIOR",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018106",
+        "Tipo": "CALÇADO, EPI, EPI, KIT ABELHA, PROTETOR",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 46, LANTERNA PARA CAPACETE, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA MISTA UNICO, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1, 1, 1, 1",
+        "Código SAP": "1139808, 1154912, 1103375, 1120402, 1116791"
     }
 ]
