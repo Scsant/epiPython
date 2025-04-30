@@ -625,5 +625,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "Wesley Rodrigo Biancone",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015893",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 52",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143249, 1143236"
     }
 ]
