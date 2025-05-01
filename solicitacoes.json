@@ -97,5 +97,16 @@
         "Descrição": "PALMILHA 42, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1",
         "Código SAP": "1127545, 1154912"
+    },
+    {
+        "Nome": "Marcos Molina",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021126",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
