@@ -64,5 +64,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143249, 1143232, 1139803, 1127547, 1154912"
+    },
+    {
+        "Nome": "OSMAR DE ARRUDA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009154",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
