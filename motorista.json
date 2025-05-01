@@ -15328,5 +15328,12 @@
         "Matrícula": 37020805.0,
         "Função": "Motorista",
         "Nome": "Felipe Neves Zanella"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF6",
+        "Matrícula": 37019662.0,
+        "Função": "Motorista",
+        "Nome": "Pedro Ferreira"
     }
 ]
