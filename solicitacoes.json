@@ -152,5 +152,16 @@
         "Descrição": "CAMISA UNIFORME G, PALMILHA 39 , PERNEIRA",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143249, 1127557, 1116791"
+    },
+    {
+        "Nome": "Pedro Ferreira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019662",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
