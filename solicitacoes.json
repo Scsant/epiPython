@@ -207,5 +207,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 42",
         "Quantidade": "2, 2",
         "Código SAP": "1143248, 1143231"
+    },
+    {
+        "Nome": "Jose Roberto Aureliano",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014340",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
