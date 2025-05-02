@@ -185,5 +185,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "EDMILSON DO CARMO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006294",
+        "Tipo": "CAMISA, CALÇADO, PALMILHA, CALÇA MASCULINA, COSMETICOS, OCULOS",
+        "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, CALÇA MASCULINA Nº 46, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1, 2, 1, 1",
+        "Código SAP": "1143270, 1139804, 1127545, 1143233, 1114370, 1144814"
     }
 ]
