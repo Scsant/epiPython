@@ -196,5 +196,16 @@
         "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, CALÇA MASCULINA Nº 46, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1, 1, 2, 1, 1",
         "Código SAP": "1143270, 1139804, 1127545, 1143233, 1114370, 1144814"
+    },
+    {
+        "Nome": "JOSE RIBEIRO DE MIRANDA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006356",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 42",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143248, 1143231"
     }
 ]
