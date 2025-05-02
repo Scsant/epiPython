@@ -262,5 +262,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Jose Roberto Aureliano",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014340",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
