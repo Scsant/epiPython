@@ -218,5 +218,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "Jose Roberto Aureliano",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014340",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
