@@ -328,5 +328,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
         "Quantidade": "1, 2, 1",
         "Código SAP": "1139803, 1143234, 1144814"
+    },
+    {
+        "Nome": "VAGNER ALVES",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000718",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
