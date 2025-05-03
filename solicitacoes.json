@@ -317,5 +317,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME G, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143231, 1143249, 1114370"
+    },
+    {
+        "Nome": "Cristhian Rafael Aguilera",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019515",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, OCULOS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 2, 1",
+        "Código SAP": "1139803, 1143234, 1144814"
     }
 ]
