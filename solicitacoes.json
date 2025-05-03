@@ -284,5 +284,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "1",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "Rogerio Daniel Rovero",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020275",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "1",
+        "Código SAP": "1143248"
     }
 ]
