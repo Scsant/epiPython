@@ -394,5 +394,16 @@
         "Descrição": "PALMILHA 41",
         "Quantidade": "1",
         "Código SAP": "1127547"
+    },
+    {
+        "Nome": "Rafael Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015140",
+        "Tipo": "CAMISA, CALÇADO, PALMILHA, PROTETOR, COSMETICOS, PROTETOR",
+        "Descrição": "CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 38, PALMILHA 38, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "2, 1, 1, 1, 1, 1",
+        "Código SAP": "1143249, 1139800, 1127546, 1111086, 1114370, 1116791"
     }
 ]
