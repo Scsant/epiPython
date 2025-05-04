@@ -416,5 +416,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Ueliton Pasqualinotto",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013485",
+        "Tipo": "CALÇA MASCULINA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 50, LANTERNA PARA CAPACETE",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143235, 1154912"
     }
 ]
