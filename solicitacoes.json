@@ -592,5 +592,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 1",
         "Código SAP": "1143232, 1139802"
+    },
+    {
+        "Nome": "Edilson da Silva",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014516",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
