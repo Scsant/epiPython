@@ -537,5 +537,16 @@
         "Descrição": "CAMISA UNIFORME EGG",
         "Quantidade": "2",
         "Código SAP": "1143271"
+    },
+    {
+        "Nome": "JORGE DE SOUZA BEZERRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008014",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 54",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143271, 1143237"
     }
 ]
