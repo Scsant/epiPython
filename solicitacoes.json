@@ -614,5 +614,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, CAPACETE SEGURANCA BRANCO, PERNEIRA, PORTA FERRAMENTA COR 016 ROYAL 01467, LUVA SEGURANCA VAQUETA UNICO, OCULOS ESPELHADO AERO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "2, 2, 1, 1, 1, 1, 1, 1, 1",
         "Código SAP": "1143248, 1143232, 1139803, 1141560, 1116791, 1141461, 1103176, 1144814, 1103375"
+    },
+    {
+        "Nome": "Roberto De Arcanjo Junior",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015898",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143248, 1143233"
     }
 ]
