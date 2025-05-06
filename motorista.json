@@ -15335,5 +15335,12 @@
         "Matrícula": 37019662.0,
         "Função": "Motorista",
         "Nome": "Pedro Ferreira"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Matrícula": 37020847.0,
+        "Função": "Motorista",
+        "Nome": "Murilo Carlos Almeida"
     }
 ]
