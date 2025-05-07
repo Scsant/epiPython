@@ -691,5 +691,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44",
         "Quantidade": "2, 2",
         "Código SAP": "1143248, 1143232"
+    },
+    {
+        "Nome": "CLAUDIO LEANDRO COSTA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013180",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
