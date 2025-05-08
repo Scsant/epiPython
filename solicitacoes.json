@@ -768,5 +768,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Vanderleia Aparecida Da Fonseca",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014748",
+        "Tipo": "CALÇA FEMININA",
+        "Descrição": "CALÇA FEMININA Nº 36",
+        "Quantidade": "1",
+        "Código SAP": "1143250"
     }
 ]
