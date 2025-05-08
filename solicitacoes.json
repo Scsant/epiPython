@@ -790,5 +790,16 @@
         "Descrição": "CAMISA UNIFORME PP",
         "Quantidade": "1",
         "Código SAP": "1143209"
+    },
+    {
+        "Nome": "VALDEMIR ADALBERTO GUALDA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019161",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
