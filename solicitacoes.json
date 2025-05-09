@@ -911,5 +911,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "ANTONIO CARLOS DE LIMA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007625",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 42",
+        "Quantidade": "1",
+        "Código SAP": "1127545"
     }
 ]
