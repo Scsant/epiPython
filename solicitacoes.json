@@ -878,5 +878,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "2",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "ANTONIO CARLOS DE LIMA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007625",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
