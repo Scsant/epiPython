@@ -1010,5 +1010,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 40, LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143270, 1143235, 1139802, 1154912, 1144814, 1103176"
+    },
+    {
+        "Nome": "MARCOS ROBERTO GARCIA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37006903",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
