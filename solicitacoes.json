@@ -944,5 +944,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40",
         "Quantidade": "2",
         "Código SAP": "1143281"
+    },
+    {
+        "Nome": "Edson Aparecido Lopes",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015825",
+        "Tipo": "CAMISA, CALÇADO",
+        "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143270, 1139804"
     }
 ]
