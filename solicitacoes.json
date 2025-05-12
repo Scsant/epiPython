@@ -1230,5 +1230,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "1",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "Carlos Alberto Elias",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019807",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "CAPUZ FUGA ABELHAS",
+        "Quantidade": "1",
+        "Código SAP": "1140365"
     }
 ]
