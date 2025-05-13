@@ -9,5 +9,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, PALMILHA 37, BOTINA DE SEGURANÇA PRETO 37",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1144814, 1127548, 1139789"
+    },
+    {
+        "Nome": "Marcel da Silva ",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020333",
+        "Tipo": "COSMETICOS, CALÇA MASCULINA, OCULOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CALÇA MASCULINA Nº 42, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 2, 1",
+        "Código SAP": "1114370, 1143231, 1144814"
     }
 ]
