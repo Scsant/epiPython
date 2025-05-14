@@ -108,5 +108,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 54, PALMILHA 40, PROTETOR AURICULAR PLUG SILICONE",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143270, 1143237, 1127554, 1111086"
+    },
+    {
+        "Nome": "Eder Lima de Oliveira ",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020806",
+        "Tipo": "CALÇA MASCULINA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143234, 1144814"
     }
 ]
