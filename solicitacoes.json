@@ -207,5 +207,16 @@
         "Descrição": "CAMISA UNIFORME PP",
         "Quantidade": "2",
         "Código SAP": "1143209"
+    },
+    {
+        "Nome": "JOSE AUGUSTO VERARDO",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017557",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
