@@ -130,5 +130,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "Luiz Antonio Candido",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017654",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
