@@ -350,5 +350,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Andre Luis Segura",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018083",
+        "Tipo": "PALMILHA, OCULOS, CALÇA MASCULINA, CAMISA, PROTETOR, PROTETOR",
+        "Descrição": "PALMILHA 43, OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, PROTETOR AURICULAR PLUG SILICONE, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1, 2, 2, 1, 1",
+        "Código SAP": "1127555, 1144814, 1143234, 1143249, 1111086, 1116791"
     }
 ]
