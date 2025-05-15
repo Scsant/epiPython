@@ -15391,5 +15391,12 @@
         "Matrícula": 37022001.0,
         "Função": "Motorista",
         "Nome": "ANDRÉ JACINTO"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Matrícula": 37021999.0,
+        "Função": "Motorista",
+        "Nome": "NILBERTO OSVALDO VALVERDE"
     }
 ]
