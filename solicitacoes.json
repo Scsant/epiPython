@@ -295,5 +295,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "1",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "Moacir Sinval Correa Baptista",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012655",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "1",
+        "Código SAP": "1143234"
     }
 ]
