@@ -251,5 +251,16 @@
         "Descrição": "CAMISA UNIFORME EGG, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1",
         "Código SAP": "1143271, 1103176"
+    },
+    {
+        "Nome": "Leandro Narciso Aureliano",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37014585",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
