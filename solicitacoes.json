@@ -471,5 +471,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52, CAMISA UNIFORME GG",
         "Quantidade": "2, 2",
         "Código SAP": "1143236, 1143270"
+    },
+    {
+        "Nome": "Maicon Douglas Aparecido Antonio",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015262",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
