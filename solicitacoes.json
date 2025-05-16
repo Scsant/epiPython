@@ -372,5 +372,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139804, 1143234, 1143270"
+    },
+    {
+        "Nome": "Thiago Simao Aparecido Leite",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017651",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 52",
+        "Quantidade": "2",
+        "Código SAP": "1143236"
     }
 ]
