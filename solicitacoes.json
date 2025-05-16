@@ -416,5 +416,16 @@
         "Descrição": "CAMISA UNIFORME EGG",
         "Quantidade": "2",
         "Código SAP": "1143271"
+    },
+    {
+        "Nome": "AMADEU JOAQUIM GOMES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000612",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143248, 1143233"
     }
 ]
