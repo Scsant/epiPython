@@ -361,5 +361,16 @@
         "Descrição": "PALMILHA 43, OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, PROTETOR AURICULAR PLUG SILICONE, PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "1, 1, 2, 2, 1, 1",
         "Código SAP": "1127555, 1144814, 1143234, 1143249, 1111086, 1116791"
+    },
+    {
+        "Nome": "VALDENIL DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012441",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1139804, 1143234, 1143270"
     }
 ]
