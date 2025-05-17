@@ -526,5 +526,16 @@
         "Descrição": "LANTERNA PARA CAPACETE, SUSPENSÃO DE CAPACETE / CARNEIRA, OCULOS ESPELHADO AERO",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1154912, 1103375, 1144814"
+    },
+    {
+        "Nome": "Fabiana Cardoso",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019136",
+        "Tipo": "CALÇADO, CAMISA, CALÇA FEMININA, EPI, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 36, CAMISA UNIFORME G, CALÇA FEMININA Nº 46, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 2, 2, 1, 1, 1",
+        "Código SAP": "1139788, 1143249, 1143276, 1141560, 1103375, 1103176"
     }
 ]
