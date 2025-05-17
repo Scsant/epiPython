@@ -482,5 +482,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "CLEISSON SOUZA ROCHA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009704",
+        "Tipo": "PALMILHA, EPI, EPI, EPI",
+        "Descrição": "PALMILHA 40, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, PERNEIRA",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1127554, 1141560, 1103375, 1116791"
     }
 ]
