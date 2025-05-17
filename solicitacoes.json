@@ -515,5 +515,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1, 1",
         "Código SAP": "1139802, 1141560"
+    },
+    {
+        "Nome": "Sergio Lourival De Oliveira",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015142",
+        "Tipo": "EPI, EPI, OCULOS",
+        "Descrição": "LANTERNA PARA CAPACETE, SUSPENSÃO DE CAPACETE / CARNEIRA, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1154912, 1103375, 1144814"
     }
 ]
