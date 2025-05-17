@@ -548,5 +548,16 @@
         "Descrição": "CAMISA UNIFORME EGG, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LUVA SEGURANCA VAQUETA UNICO, PALMILHA 41",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143271, 1114370, 1103176, 1127547"
+    },
+    {
+        "Nome": "APARECIDO CICERO GOMES",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006560",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
