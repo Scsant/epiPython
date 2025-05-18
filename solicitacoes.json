@@ -559,5 +559,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "Marco Rogerio Paludeto",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018088",
+        "Tipo": "OUTROS",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "1",
+        "Código SAP": "1141461"
     }
 ]
