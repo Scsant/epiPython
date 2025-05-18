@@ -570,5 +570,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "LAERCIO DA SILVA CARDOSO",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007446",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1",
+        "Código SAP": "1111086"
     }
 ]
