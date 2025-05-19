@@ -636,5 +636,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "ROBERTO ANTONIO DE ANDRADE",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009153",
+        "Tipo": "CALÇADO, PALMILHA, OCULOS, CALÇA MASCULINA, CAMISA, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, PERNEIRA",
+        "Quantidade": "1, 1, 1, 2, 2, 1",
+        "Código SAP": "1139804, 1127545, 1144814, 1143233, 1143249, 1116791"
     }
 ]
