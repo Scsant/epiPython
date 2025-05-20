@@ -801,5 +801,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143249, 1143234, 1141560, 1103176, 1114370"
+    },
+    {
+        "Nome": "Odair dos Santos Cardoso",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37008948",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 42",
+        "Quantidade": "2",
+        "Código SAP": "1143231"
     }
 ]
