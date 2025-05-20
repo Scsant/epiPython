@@ -15426,5 +15426,12 @@
         "Matrícula": 37020680.0,
         "Função": "Motorista",
         "Nome": "Anderson Carlos dos Santos"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Matrícula": 37021176.0,
+        "Função": "Motorista",
+        "Nome": "Francis Alves dos Santos Costa"
     }
 ]
