@@ -15440,5 +15440,12 @@
         "Matrícula": 37021671.0,
         "Função": "Motorista",
         "Nome": "Diego Carlos Dias"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Matrícula": 37020686.0,
+        "Função": "Motorista",
+        "Nome": "Amilton Henrique de Olivira"
     }
 ]
