@@ -779,5 +779,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "DAIR APARECIDO TORRES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008875",
+        "Tipo": "CALÇA MASCULINA, CAMISA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, PERNEIRA",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143234, 1143249, 1116791"
     }
 ]
