@@ -15419,5 +15419,12 @@
         "Matrícula": 37021980.0,
         "Função": "Motorista",
         "Nome": "GILSON FAUSTINO PEREIRA"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF2",
+        "Matrícula": 37020680.0,
+        "Função": "Motorista",
+        "Nome": "Anderson Carlos dos Santos"
     }
 ]
