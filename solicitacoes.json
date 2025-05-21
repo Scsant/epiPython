@@ -889,5 +889,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "CLEBER ALEXANDRE MENDES FRANCISCO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007064",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1",
+        "Código SAP": "1111086"
     }
 ]
