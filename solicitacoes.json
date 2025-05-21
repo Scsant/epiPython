@@ -845,5 +845,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "Manoel Milton Lobato Ribeiro Filho",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019659",
+        "Tipo": "EPI, EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, PERNEIRA",
+        "Quantidade": "1, 1",
+        "Código SAP": "1103375, 1116791"
     }
 ]
