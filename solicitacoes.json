@@ -955,5 +955,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Odair dos Santos Cardoso",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37008948",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, EPI, OCULOS, PALMILHA, PROTETOR, COSMETICOS, OUTROS, OUTROS",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO, PALMILHA 41, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "2, 2, 1, 1, 1, 1, 1, 1, 1, 1",
+        "Código SAP": "1143232, 1143249, 1139803, 1154912, 1144814, 1127547, 1111086, 1114370, 1130122, 1141461"
     }
 ]
