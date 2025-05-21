@@ -933,5 +933,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "MARCELO CRISTIANO ALMEIDA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006646",
+        "Tipo": "CAMISA, OCULOS",
+        "Descrição": "CAMISA UNIFORME G, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143249, 1144814"
     }
 ]
