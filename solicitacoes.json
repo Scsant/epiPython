@@ -999,5 +999,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "1",
         "Código SAP": "1139803"
+    },
+    {
+        "Nome": "PAULO HENRIQUE MAROLA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009415",
+        "Tipo": "PALMILHA, COSMETICOS, OCULOS, EPI",
+        "Descrição": "PALMILHA 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1127547, 1114370, 1144814, 1154912"
     }
 ]
