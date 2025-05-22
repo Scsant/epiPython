@@ -1010,5 +1010,16 @@
         "Descrição": "PALMILHA 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1127547, 1114370, 1144814, 1154912"
+    },
+    {
+        "Nome": "EDER MARTIMIANO LOPES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013779",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 41",
+        "Quantidade": "1",
+        "Código SAP": "1127547"
     }
 ]
