@@ -1076,5 +1076,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143231, 1143249"
+    },
+    {
+        "Nome": "Adriano Gonçalves Benezes",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020070",
+        "Tipo": "CAMISA, KIT ABELHA, CALÇA MASCULINA, PALMILHA, OCULOS",
+        "Descrição": "CAMISA UNIFORME P, CAPUZ FUGA ABELHAS, CALÇA MASCULINA Nº 46, PALMILHA 41, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 2, 1, 1",
+        "Código SAP": "1143247, 1140365, 1143233, 1127547, 1144814"
     }
 ]
