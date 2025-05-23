@@ -1032,5 +1032,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "Valdenir Cordeiro Vitor",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012661",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143234, 1143270"
     }
 ]
