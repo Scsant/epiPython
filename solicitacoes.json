@@ -1043,5 +1043,27 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG",
         "Quantidade": "2, 2",
         "Código SAP": "1143234, 1143270"
+    },
+    {
+        "Nome": "DORIVAL BERTINI",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000631",
+        "Tipo": "EPI, EPI",
+        "Descrição": "LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1154912, 1103176"
+    },
+    {
+        "Nome": "Amilton Henrique de Olivira",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020686",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
