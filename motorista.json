@@ -15454,5 +15454,12 @@
         "Matrícula": 37021117.0,
         "Função": "Motorista",
         "Nome": "João Paulo dos Santos"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF2",
+        "Matrícula": 37020070.0,
+        "Função": "Motorista",
+        "Nome": "Adriano Gonçalves Benezes"
     }
 ]
