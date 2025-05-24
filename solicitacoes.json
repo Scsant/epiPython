@@ -1197,5 +1197,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, PALMILHA 42, BOTINA DE SEGURANÇA PRETO 42, CALÇA MASCULINA Nº 54",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1144814, 1127545, 1139804, 1143237"
+    },
+    {
+        "Nome": "RAFAEL DONIZETI ZANFORLIM",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019533",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "1",
+        "Código SAP": "1143234"
     }
 ]
