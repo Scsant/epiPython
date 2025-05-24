@@ -1164,5 +1164,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "Cleiton Migliorini",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013510",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
