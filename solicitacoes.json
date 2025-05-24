@@ -1142,5 +1142,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M",
         "Quantidade": "2, 2",
         "Código SAP": "1143231, 1143248"
+    },
+    {
+        "Nome": "MARCELO APARECIDO BENTO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009363",
+        "Tipo": "PALMILHA, OCULOS",
+        "Descrição": "PALMILHA 40, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1127554, 1144814"
     }
 ]
