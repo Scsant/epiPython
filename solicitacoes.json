@@ -1307,5 +1307,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50",
         "Quantidade": "1, 1",
         "Código SAP": "1143270, 1143235"
+    },
+    {
+        "Nome": "Jograel dos Santos Cardoso",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019688",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 40",
+        "Quantidade": "1",
+        "Código SAP": "1143281"
     }
 ]
