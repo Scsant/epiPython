@@ -1362,5 +1362,16 @@
         "Descrição": "PALMILHA 40",
         "Quantidade": "1",
         "Código SAP": "1127554"
+    },
+    {
+        "Nome": "Eder Donizeti De Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013884",
+        "Tipo": "OUTROS, EPI, EPI",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1141461, 1141560, 1103375"
     }
 ]
