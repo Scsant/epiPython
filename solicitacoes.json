@@ -1340,5 +1340,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Fabio Menna",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019809",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA, PALMILHA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, PALMILHA 39 ",
+        "Quantidade": "1, 2, 1, 1",
+        "Código SAP": "1139801, 1143249, 1143233, 1127557"
     }
 ]
