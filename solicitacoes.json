@@ -1351,5 +1351,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, PALMILHA 39 ",
         "Quantidade": "1, 2, 1, 1",
         "Código SAP": "1139801, 1143249, 1143233, 1127557"
+    },
+    {
+        "Nome": "ALDEIRANO ARTIOLI JUNIOR",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37006285",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 40",
+        "Quantidade": "1",
+        "Código SAP": "1127554"
     }
 ]
