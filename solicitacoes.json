@@ -1373,5 +1373,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1141461, 1141560, 1103375"
+    },
+    {
+        "Nome": "Tedi Alisson Rodrigues",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015431",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
