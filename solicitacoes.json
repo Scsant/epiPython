@@ -1406,5 +1406,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Erick Campos Lourenço",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021121",
+        "Tipo": "EPI, CALÇA MASCULINA",
+        "Descrição": "LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 56",
+        "Quantidade": "1, 2",
+        "Código SAP": "1154912, 1143238"
     }
 ]
