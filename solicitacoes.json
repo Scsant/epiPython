@@ -1461,5 +1461,16 @@
         "Descrição": "CALÇA MASCULINA Nº 58",
         "Quantidade": "2",
         "Código SAP": "1143239"
+    },
+    {
+        "Nome": "SEBASTIAO BATISTA DE FREITAS FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007356",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
