@@ -1516,5 +1516,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Antônio Carlos de Almeida",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019498",
+        "Tipo": "CALÇADO, COSMETICOS, CALÇA MASCULINA, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 44, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CALÇA MASCULINA Nº 54, CAMISA UNIFORME EGG",
+        "Quantidade": "1, 1, 2, 1",
+        "Código SAP": "1139806, 1114370, 1143237, 1143271"
     }
 ]
