@@ -1637,5 +1637,16 @@
         "Descrição": "CAPUZ FUGA ABELHAS",
         "Quantidade": "1",
         "Código SAP": "1140365"
+    },
+    {
+        "Nome": "CLAUDEMIR MARTINS LOPES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012437",
+        "Tipo": "CALÇADO, COSMETICOS, KIT ABELHA, KIT ABELHA, KIT ABELHA, OCULOS, OUTROS, EPI, CALÇA MASCULINA, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PERNEIRA, LUVA SEGURANCA VAQUETA MISTA UNICO, CAPUZ FUGA ABELHAS, OCULOS ESPELHADO AERO, GARRAFAO TERMICO, LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 44, CAMISA UNIFORME G",
+        "Quantidade": "1, 1, 1, 1, 1, 1, 1, 1, 2, 2",
+        "Código SAP": "1139804, 1114370, 1116791, 1120402, 1140365, 1144814, 1130122, 1154912, 1143232, 1143249"
     }
 ]
