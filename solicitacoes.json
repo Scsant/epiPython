@@ -1626,5 +1626,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "GENIVALDO NUNES DE OLIVEIRA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37021996",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "CAPUZ FUGA ABELHAS",
+        "Quantidade": "1",
+        "Código SAP": "1140365"
     }
 ]
