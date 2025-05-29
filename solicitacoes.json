@@ -1494,5 +1494,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Jonatan Rafael Lopes Venâncio",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37021193",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
