@@ -1648,5 +1648,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PERNEIRA, LUVA SEGURANCA VAQUETA MISTA UNICO, CAPUZ FUGA ABELHAS, OCULOS ESPELHADO AERO, GARRAFAO TERMICO, LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 44, CAMISA UNIFORME G",
         "Quantidade": "1, 1, 1, 1, 1, 1, 1, 1, 2, 2",
         "Código SAP": "1139804, 1114370, 1116791, 1120402, 1140365, 1144814, 1130122, 1154912, 1143232, 1143249"
+    },
+    {
+        "Nome": "Alexandre de Jesus Vitorino",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015106",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
