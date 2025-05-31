@@ -1758,5 +1758,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Valdeci Martiniano",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019726",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
