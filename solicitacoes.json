@@ -1791,5 +1791,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Valdeci Martiniano",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019726",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
