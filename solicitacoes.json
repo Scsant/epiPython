@@ -1769,5 +1769,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Valdeci Martiniano",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019726",
+        "Tipo": "OCULOS, CALÇA MASCULINA",
+        "Descrição": "OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 2",
+        "Código SAP": "1144814, 1143233"
     }
 ]
