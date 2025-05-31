@@ -1736,5 +1736,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143233, 1143249"
+    },
+    {
+        "Nome": "Jose Luiz De Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014756",
+        "Tipo": "EPI, CALÇADO, EPI",
+        "Descrição": "PERNEIRA, BOTINA DE SEGURANÇA PRETO 40, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1116791, 1139802, 1103176"
     }
 ]
