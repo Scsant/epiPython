@@ -1835,5 +1835,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, CAMISA UNIFORME M",
         "Quantidade": "1, 2",
         "Código SAP": "1144814, 1143248"
+    },
+    {
+        "Nome": "REGINAL ALVEZ MOREIRA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020826",
+        "Tipo": "CALÇA MASCULINA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143234, 1144814"
     }
 ]
