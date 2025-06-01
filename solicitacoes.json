@@ -1824,5 +1824,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Alex Brandao Lopes",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014961",
+        "Tipo": "OCULOS, CAMISA",
+        "Descrição": "OCULOS ESPELHADO AERO, CAMISA UNIFORME M",
+        "Quantidade": "1, 2",
+        "Código SAP": "1144814, 1143248"
     }
 ]
