@@ -1868,5 +1868,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "JOSE NORBERTO SARTORELLI",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37005697",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
