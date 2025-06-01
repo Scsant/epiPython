@@ -1802,5 +1802,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "CLEDNILSON ALEXANDRE DE PAULA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007164",
+        "Tipo": "COSMETICOS, CAMISA",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME EGG",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1143271"
     }
 ]
