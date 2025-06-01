@@ -1857,5 +1857,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Fabio De Souza Lima",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013506",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
