@@ -15503,5 +15503,12 @@
         "Matrícula": 37021123.0,
         "Função": "Motorista",
         "Nome": "FABIANO ROSA BUGARELI"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Matrícula": 37020063.0,
+        "Função": "Motorista",
+        "Nome": "JOSE RONALDO DE BRITO"
     }
 ]
