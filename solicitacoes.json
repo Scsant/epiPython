@@ -2011,5 +2011,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143235, 1143249"
+    },
+    {
+        "Nome": "ZEIR DOS SANTOS",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006946",
+        "Tipo": "PALMILHA, EPI",
+        "Descrição": "PALMILHA 41, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1127547, 1154912"
     }
 ]
