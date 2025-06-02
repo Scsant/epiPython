@@ -15510,5 +15510,12 @@
         "Matrícula": 37020063.0,
         "Função": "Motorista",
         "Nome": "JOSE RONALDO DE BRITO"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Matrícula": 37010461.0,
+        "Função": "Técnico",
+        "Nome": "FRANCISCO ANTONIO FRANCO "
     }
 ]
