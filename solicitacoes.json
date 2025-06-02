@@ -1945,5 +1945,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "RICARDO RODRIGUES DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007387",
+        "Tipo": "CAMISA, CALÇA MASCULINA, OCULOS",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 40, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143281, 1144814"
     }
 ]
