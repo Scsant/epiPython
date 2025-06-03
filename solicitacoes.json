@@ -2022,5 +2022,16 @@
         "Descrição": "PALMILHA 41, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1",
         "Código SAP": "1127547, 1154912"
+    },
+    {
+        "Nome": "ANTONIO CARLOS RIBEIRO ALVES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009351",
+        "Tipo": "CAMISA, CALÇA MASCULINA, EPI",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143233, 1103176"
     }
 ]
