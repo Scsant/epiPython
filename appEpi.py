@@ -156,7 +156,7 @@ def limpar_solicitacoes_do_github():
         arquivo = repo.get_contents(SOLICITACOES_FILE)
 
         # Novo conteúdo do arquivo (JSON vazio)
-        novo_conteudo = "{}"  # Para JSON vazio
+        novo_conteudo = "[]"  # Para JSON vazio
 
         # Atualizar o arquivo no GitHub com conteúdo vazio
         repo.update_file(
