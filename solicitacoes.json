@@ -2044,5 +2044,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME P, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE, PALMILHA 38, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1143234, 1143247, 1141560, 1103375, 1154912, 1127546, 1144814"
+    },
+    {
+        "Nome": "VAGNER CALDEIRA LIMA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020077",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 50",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143249, 1143235"
     }
 ]
