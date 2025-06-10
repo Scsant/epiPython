@@ -2077,5 +2077,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "EVERTON FERNANDO PEREIRA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016788",
+        "Tipo": "EPI, COSMETICOS",
+        "Descrição": "PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1116791, 1114370"
     }
 ]
