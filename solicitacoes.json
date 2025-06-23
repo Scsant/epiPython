@@ -2143,5 +2143,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1, 1",
         "Código SAP": "1103176, 1103375"
+    },
+    {
+        "Nome": "EMERSON SANTOS  DE OLIVEIRA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018343",
+        "Tipo": "CAMISA, EPI",
+        "Descrição": "CAMISA UNIFORME GG, LANTERNA PARA CAPACETE",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143270, 1154912"
     }
 ]
