@@ -2176,5 +2176,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "JOAO LUIZ GALLEGO",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018448",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
