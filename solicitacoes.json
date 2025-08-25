@@ -2264,5 +2264,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1",
         "Código SAP": "1141461, 1103176"
+    },
+    {
+        "Nome": "Thiago Ferreira De Souza",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015750",
+        "Tipo": "COSMETICOS, PROTETOR",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1116791"
     }
 ]
