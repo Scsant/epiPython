@@ -2330,5 +2330,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Emerson Lourenço",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019814",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
