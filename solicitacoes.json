@@ -2297,5 +2297,16 @@
         "Descrição": "CAMISA UNIFORME PP",
         "Quantidade": "2",
         "Código SAP": "1143209"
+    },
+    {
+        "Nome": "Emerson Lourenço",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019814",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 42",
+        "Quantidade": "2",
+        "Código SAP": "1143231"
     }
 ]
