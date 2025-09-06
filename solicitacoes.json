@@ -2352,5 +2352,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 1",
         "Código SAP": "1143233, 1114370"
+    },
+    {
+        "Nome": "Everton Luiz Pedroso",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015411",
+        "Tipo": "CAMISA, OCULOS",
+        "Descrição": "CAMISA UNIFORME M, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143248, 1144814"
     }
 ]
