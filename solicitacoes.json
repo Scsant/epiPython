@@ -2374,5 +2374,16 @@
         "Descrição": "CAMISA UNIFORME PP, CALÇA MASCULINA Nº 42, CAPACETE SEGURANCA BRANCO, CAPA GG",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143209, 1143231, 1141560, 1103164"
+    },
+    {
+        "Nome": "JOAO LUIZ GALLEGO",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018448",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143234, 1143249, 1139804"
     }
 ]
