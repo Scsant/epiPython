@@ -2363,5 +2363,16 @@
         "Descrição": "CAMISA UNIFORME M, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1",
         "Código SAP": "1143248, 1144814"
+    },
+    {
+        "Nome": "Emerson Lourenço",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019814",
+        "Tipo": "CAMISA, CALÇA MASCULINA, EPI, EPI",
+        "Descrição": "CAMISA UNIFORME PP, CALÇA MASCULINA Nº 42, CAPACETE SEGURANCA BRANCO, CAPA GG",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143209, 1143231, 1141560, 1103164"
     }
 ]
