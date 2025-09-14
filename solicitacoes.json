@@ -2429,5 +2429,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M",
         "Quantidade": "2, 2",
         "Código SAP": "1143232, 1143248"
+    },
+    {
+        "Nome": "JOSE GOMES DE ALMEIDA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006941",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
