@@ -2418,5 +2418,16 @@
         "Descrição": "PERNEIRA, CALÇA MASCULINA Nº 44",
         "Quantidade": "1, 2",
         "Código SAP": "1116791, 1143232"
+    },
+    {
+        "Nome": "JOSE GOMES DE ALMEIDA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006941",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143232, 1143248"
     }
 ]
