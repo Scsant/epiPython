@@ -2506,5 +2506,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54, PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR AURICULAR PLUG SILICONE",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143237, 1116791, 1114370, 1111086"
+    },
+    {
+        "Nome": "Jose Mariano",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019717",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 42",
+        "Quantidade": "2",
+        "Código SAP": "1143231"
     }
 ]
