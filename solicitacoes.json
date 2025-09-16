@@ -2495,5 +2495,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Antônio Carlos de Almeida",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019498",
+        "Tipo": "CALÇA MASCULINA, EPI, COSMETICOS, PROTETOR",
+        "Descrição": "CALÇA MASCULINA Nº 54, PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143237, 1116791, 1114370, 1111086"
     }
 ]
