@@ -2594,5 +2594,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143232, 1143249, 1144814"
+    },
+    {
+        "Nome": "Murilo Furlan",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012264",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
