@@ -2627,5 +2627,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "BRAZ APARECIDO ZAGHI TEIXEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006790",
+        "Tipo": "CAMISA, CALÇA MASCULINA, OCULOS",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143248, 1143233, 1144814"
     }
 ]
