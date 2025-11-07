@@ -2693,5 +2693,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 42, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143248, 1143231, 1144814"
+    },
+    {
+        "Nome": "JONATAS APARECIDO ALVES DA SILVA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020072",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
