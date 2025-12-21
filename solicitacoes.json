@@ -2770,5 +2770,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "LEANDRO MARCOS CORREA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007253",
+        "Tipo": "CALÇADO, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, PERNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1139803, 1116791, 1103176"
     }
 ]
