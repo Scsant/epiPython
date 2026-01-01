@@ -2781,5 +2781,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, PERNEIRA, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1139803, 1116791, 1103176"
+    },
+    {
+        "Nome": "BENEDITO DE OLIVEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006650",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
