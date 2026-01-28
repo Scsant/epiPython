@@ -2869,5 +2869,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "BENEDITO DE OLIVEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006650",
+        "Tipo": "CAMISA, CALÇA MASCULINA, EPI",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143233, 1103176"
     }
 ]
