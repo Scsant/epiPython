@@ -2880,5 +2880,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143249, 1143233, 1103176"
+    },
+    {
+        "Nome": "VALDEMIR ADALBERTO GUALDA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019161",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
