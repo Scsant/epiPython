@@ -2946,5 +2946,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143232, 1143249"
+    },
+    {
+        "Nome": "JONATAS APARECIDO ALVES DA SILVA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020072",
+        "Tipo": "COSMETICOS, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PERNEIRA",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1116791"
     }
 ]
