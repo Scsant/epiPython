@@ -2935,5 +2935,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "JONATAS APARECIDO ALVES DA SILVA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020072",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143232, 1143249"
     }
 ]
