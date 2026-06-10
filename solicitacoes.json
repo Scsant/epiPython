@@ -3089,5 +3089,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143232, 1143248, 1139803"
+    },
+    {
+        "Nome": "OSMAR DE ARRUDA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009154",
+        "Tipo": "KIT ABELHA, OUTROS, KIT ABELHA, PROTETOR, COSMETICOS",
+        "Descrição": "CAPUZ FUGA ABELHAS, PORTA FERRAMENTA COR 016 ROYAL 01467, PERNEIRA, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1, 1, 1, 1",
+        "Código SAP": "1140365, 1141461, 1116791, 1111086, 1114370"
     }
 ]
