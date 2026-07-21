@@ -3111,5 +3111,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 41, OCULOS ESPELHADO AERO, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, GARRAFAO TERMICO",
         "Quantidade": "2, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1143233, 1143248, 1139803, 1144814, 1141560, 1103375, 1130122"
+    },
+    {
+        "Nome": "Antônio Carlos de Almeida",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019498",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 54",
+        "Quantidade": "2",
+        "Código SAP": "1143237"
     }
 ]
