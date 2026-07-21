@@ -3122,5 +3122,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54",
         "Quantidade": "2",
         "Código SAP": "1143237"
+    },
+    {
+        "Nome": "Antônio Carlos de Almeida",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019498",
+        "Tipo": "COSMETICOS, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1103176"
     }
 ]
