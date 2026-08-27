@@ -3144,5 +3144,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "Everton Luiz Pedroso",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015411",
+        "Tipo": "EPI, EPI, OCULOS, CALÇA MASCULINA, CAMISA, OUTROS, CALÇADO",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PORTA FERRAMENTA COR 016 ROYAL 01467, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1, 1, 1, 2, 2, 1, 1",
+        "Código SAP": "1141560, 1103375, 1144814, 1143281, 1143248, 1141461, 1139802"
     }
 ]
