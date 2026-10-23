@@ -3177,5 +3177,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, OCULOS ESPELHADO AERO, CAMISA UNIFORME G, CAPACETE SEGURANCA BRANCO, PROTETOR PERNA PERNEIRA COURO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
         "Quantidade": "2, 1, 2, 1, 1, 1, 1",
         "Código SAP": "1143234, 1144814, 1143249, 1141560, 1116791, 1114370, 1130122"
+    },
+    {
+        "Nome": "VALDEMIR ADALBERTO GUALDA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019161",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
