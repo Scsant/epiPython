@@ -3199,5 +3199,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "Luiz Jose Pereira",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020840",
+        "Tipo": "CALÇADO, PROTETOR",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1139802, 1116791"
     }
 ]
